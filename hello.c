@@ -9,6 +9,7 @@ Display name
 int main (void) {
 
 	printf("Azaria Ahl\n");
+	printf("Mathematics\n");
 
 	return 0;
 }
