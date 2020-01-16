@@ -10,6 +10,7 @@ int main (void) {
 
 	printf("Azaria Ahl\n");
 	printf("Mathematics\n");
-
+        printf("Hannah\n");
+	printf("Mathematics\n");
 	return 0;
 }
